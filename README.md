@@ -7,3 +7,4 @@
 ```python
 print("hi")
 ```
+[유튜브 바로가기](https://www.youtube.com/watch?v=a_AA_UWA3Hw)
